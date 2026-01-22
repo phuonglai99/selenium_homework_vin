@@ -1,0 +1,12 @@
+# Jira Keys File - Example
+# Format: One Jira key per line
+# Comments start with #
+
+# Login tests
+SAUCE-101
+SAUCE-102
+SAUCE-103
+
+# Cart tests
+SAUCE-201
+SAUCE-204
